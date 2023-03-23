@@ -11,7 +11,7 @@ function Home() {
       <div className="about">
         <h2> Hi, My Name is Piyush Kumar Singh</h2>
         <div className="prompt">
-          <p>A software developer with a passion for learning and creating.</p>
+          <p>A Front-end developer with a passion for learning and creating.</p>
           <Link to="https://www.linkedin.com/in/piyushsingh2001/">
         <LinkedInIcon />
         </Link>
